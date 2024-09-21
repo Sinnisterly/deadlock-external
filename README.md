@@ -1,8 +1,8 @@
 ---
 
-# External ESP Tool
+# Deadlock External ESP Tool
 
-This repository contains an external ESP tool designed for gaming. It provides features such as bone rendering, bounding boxes, health bars, player information, and a radar overlay.
+This repository contains an external ESP tool designed for Deadlock. It provides features such as bone rendering, bounding boxes, health bars, player information, and a radar overlay.
 
 ## Features
 
@@ -29,12 +29,11 @@ N/A ATM
 1. Launch the target game.
 2. Run the compiled ESP tool.
 3. Use the following keybinds for controlling the ESP features:
-   - **Toggle ESP**: `F1`
-   - **Toggle Radar**: `F2`
-   - **Toggle Bones**: `F3`
-   - **Toggle Boxes**: `F4`
-   - **Toggle Health Bars**: `F5`
-   - **Show/Hide Player Info**: `F6`
+   - **Toggle Radar**: `5`
+   - **Toggle Bones**: `2`
+   - **Toggle Boxes**: `1`
+   - **Toggle Health Bars**: `3`
+   - **Show/Hide Player Info**: `4`
 
 Customize keybindings in the source code if necessary.
 
