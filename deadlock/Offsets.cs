@@ -8,10 +8,10 @@ namespace deadlock
 {
     internal static class Offsets
     {
-        internal static IntPtr dwEntityList = 0x1F24948;
-        internal static IntPtr ViewMatrix = 0x20E22E0;
-        internal static IntPtr LocalPlayerController = 0x20D07C0;
-        internal static IntPtr CCitadelCameraManager = 0x1f46230;
+        internal static IntPtr dwEntityList = 0x1f4a2e8;
+        internal static IntPtr ViewMatrix = 0x2108e70;
+        internal static IntPtr LocalPlayerController = 0x20f7168;
+        internal static IntPtr CCitadelCameraManager = 0x1f6bbf0;
 
         internal static IntPtr m_boneArray = 0x80;
         //use https://a2x.github.io/cs2-analyzer/# for offsets
